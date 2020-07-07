@@ -5,6 +5,7 @@
 ## Table of content
 - Dataset
 - Installation
+- Model Training
 
 
 ## Dataset
@@ -16,3 +17,7 @@
 The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command.
 
     pip install -r requirements.txt
+
+## Model Training
+   To training a Neural Network model we required **GPU**. For the training purpose you can use google colab for training.
+   [google colab](https://colab.research.google.com/)
