@@ -23,5 +23,6 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
    
    [google colab](https://colab.research.google.com/)
    
+   
    ![download](https://user-images.githubusercontent.com/46066018/86727471-18d55080-c049-11ea-815a-7d51f9eabf41.jpeg)
 
